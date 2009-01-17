@@ -44,8 +44,7 @@
         <CheckBoxPreference
                 android:key="load_images"
                 android:defaultValue="true"
-                android:title="@string/pref_content_load_images"
-                android:summary="@string/pref_content_load_images_summary" />   
+                android:title="Block ads" />
 
         <CheckBoxPreference
                 android:key="autofit_pages"
